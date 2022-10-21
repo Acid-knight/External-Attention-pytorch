@@ -1,6 +1,4 @@
 
-<img src="./FightingCVimg/LOGO.gif" height="200" width="400"/>
-
 简体中文 | [English](./README_EN.md)
 
 # FightingCV 代码库， 包含 [***Attention***](#attention-series),[***Backbone***](#backbone-series), [***MLP***](#mlp-series), [***Re-parameter***](#re-parameter-series), [**Convolution**](#convolution-series)
@@ -40,26 +38,14 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 
-
-## 技术交流 <img title="" src="https://user-images.githubusercontent.com/48054808/157800467-2a9946ad-30d1-49a9-b9db-ba33413d9c90.png" alt="" width="20">
-
-欢迎大家关注公众号：**FightingCV**
-
-
-
-| FightingCV公众号 | 小助手微信 （备注【**公司/学校+方向+ID**】）|
-:-------------------------:|:-------------------------:
-<img src='./FightingCVimg/FightingCV.jpg' width='200px'>  |  <img src='./FightingCVimg/xiaozhushou.jpg' width='200px'> 
+## 技术交流 
 
 - 公众号**每天**都会进行**论文、算法和代码的干货分享**哦~
 
 - **交流群每天分享一些最新的论文和解析**，欢迎大家一起**学习交流**哈~~~
 （加不进去可以加微信：**775629340**，记得备注【**公司/学校+方向+ID**】）
 
-<!-- ![](./FightingCVimg/wechat.jpg) -->
-
 - 强烈推荐大家关注[**知乎**](https://www.zhihu.com/people/jason-14-58-38/posts)账号和[**FightingCV公众号**](https://mp.weixin.qq.com/s/m9RiivbbDPdjABsTd6q8FA)，可以快速了解到最新优质的干货资源。
-
 
 
 
@@ -69,7 +55,6 @@ Hello，大家好，我是小马🚀🚀🚀
 
 
 🔥🔥🔥 重磅！！！作为项目补充，更多论文层面的解析，可以关注新开源的项目 **[FightingCV-Paper-Reading](https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading)** ，里面汇集和整理了各大顶会顶刊的论文解析
-
 
 
 🔥🔥🔥重磅！！！ 最近为大家整理了网上的各种AI相关的视频教程和必读论文 **[FightingCV-Course
